@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Assignment2</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="logIn">Log In</string>
+
+    <string name="admin">admin</string>
+    <string name="pass">1234</string>
+
+    <string name="activity">Activities</string>
+    <string name="Email">Create And Send Emaıl</string>
+    <string name="viewUsers">Vıew Users</string>
+    <string name="showUserSet">Show And Change User Settıngs</string>
+    <string name="note">Create, Delete Or Update Note</string>
+    <string name="sensor">Sensor Screen</string>
+
+    <string name="toWho">To Who:</string>
+    <string name="subject">Subject:</string>
+    <string name="content">Content:</string>
+    <string name="send">Send</string>
+
+    <string name="notepad">Note</string>
+    <string name="save">Save</string>
+
+    <string name="downimage">Download Image</string>
+    <string name="download">Download</string>
+
+    <string name="alarm">Alarm Manager</string>
+
+    <string name="getlocation">Get Locatıon</string>
+    <string name="sendlocation">Send Locatıon</string>
+    <string name="yourlocation">Your Location</string>
+
+    <string name="errnote">If your phone stands still for 5 seconds, the app will shut down itself.</string>
+</resources>
